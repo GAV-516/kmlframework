@@ -4,3 +4,6 @@
 
 # Ignore temporary files
 *~
+
+# Ignore generated files
+target/

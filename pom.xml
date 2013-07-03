@@ -3,7 +3,7 @@
 
     <groupId>org.boehn.kmlframework</groupId>
     <artifactId>kmlframework</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>kmlframework</name>
@@ -15,7 +15,7 @@
         <url>https://github.com/mrait/kmlframework/</url>
         <connection>scm:git:git://github.com/mrait/kmlframework.git</connection>
         <developerConnection>scm:git:git@github.com:mrait/kmlframework.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>kmlframework-1.1</tag>
   </scm>
 
     <developers>
